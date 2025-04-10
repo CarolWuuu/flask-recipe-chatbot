@@ -1,0 +1,8 @@
+__pycache__/
+.env
+*.pyc
+*.log
+data/
+.etl_cache/
+.kaggle/
+.cache/

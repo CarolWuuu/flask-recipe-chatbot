@@ -7,7 +7,7 @@ This Flask-based chatbot helps users discover healthy recipes using:
 
 ## 🔗 Live Demo
 
-👉 https://your-project-id.ew.r.appspot.com
+👉 https://chatbotrecipe.uc.r.appspot.com/
 
 ## 📦 Run Locally
 

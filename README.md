@@ -2,8 +2,8 @@
 # 🍽️ Healthy Recipe Chatbot
 
 This Flask-based chatbot helps users discover healthy recipes using:
-- 🧠 A cleaned local nutrition CSV (via ETL)
-- 🌐 Spoonacular API for real-time recipe search
+- A cleaned local nutrition CSV (via ETL)
+- Spoonacular API for real-time recipe search
 
 ## 🔗 Live Demo
 
